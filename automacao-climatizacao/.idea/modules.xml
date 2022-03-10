@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/automacao-climatizacao.iml" filepath="$PROJECT_DIR$/.idea/automacao-climatizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camunda/camunda.iml" filepath="$PROJECT_DIR$/camunda/camunda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-aquecedor/external-task-aquecedor.iml" filepath="$PROJECT_DIR$/external-task-aquecedor/external-task-aquecedor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-exaustor/external-task-exaustor.iml" filepath="$PROJECT_DIR$/external-task-exaustor/external-task-exaustor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-higrometro/external-task-higrometro.iml" filepath="$PROJECT_DIR$/external-task-higrometro/external-task-higrometro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-termometro/external-task-termometro.iml" filepath="$PROJECT_DIR$/external-task-termometro/external-task-termometro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-umidificador/external-task-umidificador.iml" filepath="$PROJECT_DIR$/external-task-umidificador/external-task-umidificador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-task-ventilador/external-task-ventilador.iml" filepath="$PROJECT_DIR$/external-task-ventilador/external-task-ventilador.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="camunda" />
+        <module name="external-task-termometro" />
+        <module name="external-task-higrometro" />
+        <module name="external-task-aquecedor" />
+        <module name="external-task-umidificador" />
+        <module name="external-task-exaustor" />
+        <module name="external-task-ventilador" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="automacao-climatizacao" target="11" />
+      <module name="camunda" target="11" />
+      <module name="external-task-aquecedor" target="11" />
+      <module name="external-task-exaustor" target="11" />
+      <module name="external-task-higrometro" target="11" />
+      <module name="external-task-termometro" target="11" />
+      <module name="external-task-umidificador" target="11" />
+      <module name="external-task-ventilador" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="camunda" options="-parameters" />
+      <module name="external-task-aquecedor" options="-parameters" />
+      <module name="external-task-exaustor" options="-parameters" />
+      <module name="external-task-higrometro" options="-parameters" />
+      <module name="external-task-termometro" options="-parameters" />
+      <module name="external-task-umidificador" options="-parameters" />
+      <module name="external-task-ventilador" options="-parameters" />
+    </option>
+  </component>
+</project>
